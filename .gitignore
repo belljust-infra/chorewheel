@@ -1,0 +1,8 @@
+# general
+.env
+*.swp
+*.pyc
+
+# secrets
+sendgrid.env
+housemates.csv
